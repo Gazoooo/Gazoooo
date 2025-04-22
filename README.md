@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Gustav 👋</h1>
 
 <p align="center">
-  🎓 Computer Science Student • 🧠 Automation Enthusiast • 🐍 Python Enjoyer
+  🎓 Computer Science Student • 🧑‍💻 Passionate about Automation • 🐍 Python Developer
 </p>
 
 ---
 
 ## ⚙️ About Me
 
-Hey there! I'm a passionate student who loves building smart automation scripts and making life easier through code. Whether it's on my own home server, a Raspberry Pi, or via Docker deployments – I enjoy building systems that just run in the background and *do their job*.
+Hi there! I'm a computer science student with a passion for building smart automation scripts and tools that make life easier. I enjoy working on projects that run seamlessly in the background, whether it's on my home server, Raspberry Pi, or Docker setups.
 
-I like tinkering, optimizing, and writing clean scripts that solve real problems.
+I love optimizing systems and writing clean, efficient code to solve real-world problems.
 
 ---
 
@@ -25,24 +25,24 @@ I like tinkering, optimizing, and writing clean scripts that solve real problems
 
 ## 🚀 Projects & Interests
 
-- 📦 A self-hosted Raspberry Pi cloud system
-- 📁 Automated backups to Azure Blob Storage
-- 🕵️ Device recognition based on MAC addresses to auto-select user profiles
-- 🔄 Cron jobs for daily automation on my home server
-- 📊 Network measurement experiments with iperf, ping, irtt & more
+- 📦 Building a self-hosted Raspberry Pi cloud system
+- 📁 Automating backups to Raspberry Pi, own chosen Paths
+- 🕵️ Using MAC addresses and hostnames to automatically select user profiles
+- 🔄 Setting up Cron jobs for daily automation on my home server
+- 📊 Running network measurement experiments with iperf, ping, irtt & more
 
 ---
 
 ## 📈 GitHub Stats
 
-![Gustav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Gustav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gazoooo&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📬 Get in Touch
 
-- 💼 LinkedIn or website (coming soon 😉)
-- 💡 Got a cool idea? Hit me up – I'm always up for a fun project!
+- 💼 You can contact me over the "contact" Section on my [website](https://gazoooo.github.io/own_website/portfolio.html)
+- 💡 Got an interesting project? Let me know – I love collaborating!
 
 ---
 
