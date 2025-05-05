@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Hey%20there%20👋&height=150&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Gustav's%20GitHub%20Profile&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20there!%20👋&fontAlignY=30"/>
 </p>
-
-
 
 ## 🚀 Projects & Interests
 
