@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi there 👋&section=header&fontAlignY=25&animation=fadeIn&textBg=false&descAlign=0&fontColor=FFFFFF)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi there 👋&section=header&fontAlignY=25&animation=fadeIn&textBg=false&descAlign=0&fontColor=FFFFFF"/>
 </p>
 
 <p align="center">
   🎓 Computer Science Student • 🧑‍💻 Passionate about Automation • 🐍 Python Developer
 </p>
-
-![Snake animation](https://github.com/Gazoooo/Gazoooo/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🚀 Projects & Interests
 - 🧠 Building useful software
